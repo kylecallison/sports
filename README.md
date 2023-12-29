@@ -14,7 +14,9 @@ nba_play_by_play_scraper.py : scrapes all season game's play_by_play files.
 box_score_from_pbp.py : Takes an individual game's play-by-play and aggregates to player/team level
 - produces box score
 
-  Box Score:
+
+Need: MINS, PF, +/- 
+Box Score:
 ![image](https://github.com/kylecallison/sports/assets/100173107/897ead92-afa0-4176-8d16-9d2cb2cd5188)
 
 
