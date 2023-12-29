@@ -20,6 +20,11 @@ Box Score:
 ![image](https://github.com/kylecallison/sports/assets/100173107/897ead92-afa0-4176-8d16-9d2cb2cd5188)
 
 
+NEED:
+Line Score:
+![image](https://github.com/kylecallison/sports/assets/100173107/1c5cd9c7-a8a2-47ee-a943-dc896c2f9312)
+
+
 
 download_nba_stats.py : Downloads season stats by player for a given season - use for validating play-by-play aggregation at a a later time.
   - nba_stats -> sports\nba_stats\stats_nba_player_data_1998-99.csv
