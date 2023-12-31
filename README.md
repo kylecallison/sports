@@ -4,6 +4,14 @@ NBA play-by-play data -> box scores / game data -> aggregated season (team/playe
 
 
 
+Scraping Data - nba_play_by_play_scraper.py
+  - Scrapes full season (by season_type - Regular Season / Playoffs) NBA play-by-play data.
+  - Saves to csv in the format of : 0022300121
+      - 002 / 004 prefix signifies regular season (002) or playoffs (004)
+      - Next 2 digits signify season year (22 = 2022-23 season)
+
+
+
 current files -
 
 nba_play_by_play_scraper.py : scrapes all season game's play_by_play files.
